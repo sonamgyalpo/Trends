@@ -3,10 +3,7 @@ from pytrends.request import TrendReq
 
 
 header = st.container()
-input1 = st.container()
-relatedtopics = st.container()
-relatedqueries = st.container()
-trial = st.container()
+
 
 with header:
 	st.title("Here's our first attempt at using pytrends")
