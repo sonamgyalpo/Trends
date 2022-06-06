@@ -1,4 +1,3 @@
-pip install git+https://github.com/GeneralMills/pytrends.git
 import pandas as pd
 from pytrends.request import TrendReq
 
