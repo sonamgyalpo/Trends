@@ -1,3 +1,4 @@
+=m pip install -U pip
 py -m pip install "pytrends"
 import pandas as pd
 from pytrends.request import TrendReq
